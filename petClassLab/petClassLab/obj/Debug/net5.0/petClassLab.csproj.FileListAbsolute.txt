@@ -1,0 +1,16 @@
+C:\Users\musaw\source\repos\petClassLab\petClassLab\bin\Debug\net5.0\petClassLab.exe
+C:\Users\musaw\source\repos\petClassLab\petClassLab\bin\Debug\net5.0\petClassLab.deps.json
+C:\Users\musaw\source\repos\petClassLab\petClassLab\bin\Debug\net5.0\petClassLab.runtimeconfig.json
+C:\Users\musaw\source\repos\petClassLab\petClassLab\bin\Debug\net5.0\petClassLab.runtimeconfig.dev.json
+C:\Users\musaw\source\repos\petClassLab\petClassLab\bin\Debug\net5.0\petClassLab.dll
+C:\Users\musaw\source\repos\petClassLab\petClassLab\bin\Debug\net5.0\ref\petClassLab.dll
+C:\Users\musaw\source\repos\petClassLab\petClassLab\bin\Debug\net5.0\petClassLab.pdb
+C:\Users\musaw\source\repos\petClassLab\petClassLab\obj\Debug\net5.0\petClassLab.csproj.AssemblyReference.cache
+C:\Users\musaw\source\repos\petClassLab\petClassLab\obj\Debug\net5.0\petClassLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musaw\source\repos\petClassLab\petClassLab\obj\Debug\net5.0\petClassLab.AssemblyInfoInputs.cache
+C:\Users\musaw\source\repos\petClassLab\petClassLab\obj\Debug\net5.0\petClassLab.AssemblyInfo.cs
+C:\Users\musaw\source\repos\petClassLab\petClassLab\obj\Debug\net5.0\petClassLab.csproj.CoreCompileInputs.cache
+C:\Users\musaw\source\repos\petClassLab\petClassLab\obj\Debug\net5.0\petClassLab.dll
+C:\Users\musaw\source\repos\petClassLab\petClassLab\obj\Debug\net5.0\ref\petClassLab.dll
+C:\Users\musaw\source\repos\petClassLab\petClassLab\obj\Debug\net5.0\petClassLab.pdb
+C:\Users\musaw\source\repos\petClassLab\petClassLab\obj\Debug\net5.0\petClassLab.genruntimeconfig.cache
